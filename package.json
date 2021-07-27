@@ -1,0 +1,24 @@
+{
+  "name": "Note-Taker",
+  "version": "1.0.0",
+  "description": "## Description:  ### This app allows the user to write, save and delete notes that they enter into the webpage. The app also allows the user to refer back to the saved notes and read them. This app uses and express server to store the data the user enters.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryelow94/Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryelow94/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/ryelow94/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
