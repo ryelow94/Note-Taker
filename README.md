@@ -5,7 +5,7 @@
 
 My role for this project was to code out the back end using REST API
 
-![Note-Taker](./Note-Taker.png)
+![Note-Taker](../Note-Taker.png)
 
  ## Role: 
  Ryan Logan: Backend
